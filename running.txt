@@ -1,0 +1,2 @@
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                      PORTS               NAMES
+2c939227420b        sampleapp           "/bin/sh -c 'python …"   46 seconds ago      Exited (0) 45 seconds ago                       samplerunning
